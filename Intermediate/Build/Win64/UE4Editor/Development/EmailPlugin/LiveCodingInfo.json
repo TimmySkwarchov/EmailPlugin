@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EmailPlugin.cpp.obj": [
+			"EmailPlugin.cpp.obj",
+			"EmailPluginBPLibrary.cpp.obj"
+		],
+		"Module.EmailPlugin.gen.cpp.obj": [
+			"EmailPlugin.init.gen.cpp.obj",
+			"EmailPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}
