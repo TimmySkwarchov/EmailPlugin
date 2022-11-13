@@ -1,6 +1,0 @@
-F:\MPProjs\MyProject\Plugins\EmailPlugin\Intermediate\Build\Win64\UE4Editor\Development\EmailPlugin\Definitions.EmailPlugin.h
-F:/MPProjs/MyProject/Plugins/EmailPlugin/Source/EmailPlugin/Private/EmailPlugin.cpp
-F:\MPProjs\MyProject\Plugins\EmailPlugin\Source\EmailPlugin\Public\EmailPlugin.h
-F:/MPProjs/MyProject/Plugins/EmailPlugin/Source/EmailPlugin/Private/EmailPluginBPLibrary.cpp
-F:\MPProjs\MyProject\Plugins\EmailPlugin\Source\EmailPlugin\Public\EmailPluginBPLibrary.h
-F:\MPProjs\MyProject\Plugins\EmailPlugin\Intermediate\Build\Win64\UE4Editor\Inc\EmailPlugin\EmailPluginBPLibrary.generated.h
